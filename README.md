@@ -4,7 +4,7 @@ Snowball
 A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://clockworkengine.com/lightpaper-mac/) Markdown editors.
 
 ## Screenshot
-<img src="https://raw.github.com/chrissimpkins/swizzle/master/img/snowball_screenshot.png" />
+<img src="https://raw.github.com/chrissimpkins/snowball/master/img/snowball-screenshot.png" />
 
 ## Install
 Place the `Swizzle.txt` file in your application's Themes directory.
