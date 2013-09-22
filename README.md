@@ -22,7 +22,7 @@ Place the `Snowball.txt` file in your application's Themes directory.
 **LightPaper Themes** : `~/.lightpaper/Themes` [Docs](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/LightPaper%20for%20Mac/LightPaper%20for%20Mac%20-%20Adding%20Custom%20Themes.md#adding-custom-themes-to-lightpaper-for-mac)
 
 #### Set Theme in Your Editor
-Open your Markdown editor, open the Preferences pane, & select the Swizzle theme in the dropdown for the text editor themes (not the preview themes!).
+Open your Markdown editor, open the Preferences pane, & select the Snowball theme in the dropdown for the text editor themes (not the preview themes!).
 
 ## Specs
 **Fonts**: Helvetica Neue, Helvetica, & Menlo
