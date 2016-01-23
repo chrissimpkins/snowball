@@ -31,10 +31,10 @@ Place the `Snowball.txt` file in your application's Themes directory.
 
 **LightPaper Themes** : `~/.lightpaper/Themes` [Docs](https://github.com/42Squares/LightPaper/blob/master/Adding%20Custom%20Themes.md)
 
-#### Set Theme in Your Editor
+### Set Theme in Your Editor
 Open your Markdown editor, open the Preferences pane, & select the Snowball theme in the dropdown for the text editor themes (not the preview themes!).
 
-#### Set Base Font
+### Set Base Font
 
 Set your base font to Roboto Mono - 14 in your Preferences pane.
 
