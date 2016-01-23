@@ -1,7 +1,7 @@
 Snowball
 ========
 
-A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://clockworkengine.com/lightpaper-mac/) Markdown editors.
+A clean, simple Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://lightpaper.42squares.in/) Markdown editors.
 
 ## Example
 
@@ -12,22 +12,25 @@ A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](
 <img src="img/highlight-example-footer.png" width="760">
 
 ## Install
-#### Automated Install
+
+### Install Theme Fonts
+
+Install the [Fira Sans](fonts/FiraSans), [Hack](fonts/Hack), and [Roboto Mono](fonts/RobotoMono) fonts that are included in the Snowball repository `fonts` directory.
+
+#### Automated Theme File Installation
 Use the install.sh script in the Mou or LightPaper directory.  This will automatically install the theme for you. Clone this repository, navigate to the directory for your Markdown editor and enter the following:
 ```
 chmod 744 install.sh
 ./install.sh
 ```
-#### Manual Install
+#### Manual Theme File Installation
 
 Place the `Snowball.txt` file in your application's Themes directory.
 
 **Mou Themes** : `~/Library/Application Support/Mou/Themes` [Docs](http://mouapp.com/)
 
-**LightPaper Themes** : `~/.lightpaper/Themes` [Docs](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/LightPaper%20for%20Mac/LightPaper%20for%20Mac%20-%20Adding%20Custom%20Themes.md#adding-custom-themes-to-lightpaper-for-mac)
+**LightPaper Themes** : `~/.lightpaper/Themes` [Docs](https://github.com/42Squares/LightPaper/blob/master/Adding%20Custom%20Themes.md)
 
 #### Set Theme in Your Editor
 Open your Markdown editor, open the Preferences pane, & select the Snowball theme in the dropdown for the text editor themes (not the preview themes!).
 
-## Specs
-**Fonts**: Helvetica Neue, Helvetica, & Menlo
