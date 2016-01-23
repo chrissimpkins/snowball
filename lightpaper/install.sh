@@ -2,7 +2,7 @@
 
 TARGET_DIR="${HOME}/.lightpaper/Themes/"
 INSTALL_FILE="Snowball.txt"
-SUCCESS_MSG="The Snowball Markdown editor theme was successfully installed.  You can select this theme in LightPaper Preferences > Styles > Theme (MD tab)."
+SUCCESS_MSG="The Snowball Markdown editor theme was successfully installed.  You can select this theme in LightPaper Preferences > Editor > Style setting."
 
 if [ -d "$TARGET_DIR" ]; then
   cp "$INSTALL_FILE" "$TARGET_DIR"
