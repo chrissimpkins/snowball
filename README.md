@@ -3,8 +3,13 @@ Snowball
 
 A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://clockworkengine.com/lightpaper-mac/) Markdown editors.
 
-## Screenshot
-<img src="https://raw.github.com/chrissimpkins/snowball/master/img/snowball-screenshot.png" />
+## Example
+
+<img src="img/highlight-example-head.png" width="760">
+<img src="img/highlight-example-lists.png" width="760">
+<img src="img/highlight-example-code.png" width="760">
+<img src="img/highlight-example-other.png" width="760">
+<img src="img/highlight-example-footer.png" width="760">
 
 ## Install
 #### Automated Install
