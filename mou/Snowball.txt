@@ -1,5 +1,5 @@
 # Author: Chris Simpkins (https://github.com/chrissimpkins/snowball)
-# Version: 2.0
+# Version: 2.1
 
 editor
 foreground: 404749
@@ -37,13 +37,13 @@ font-family: Fira Sans
 font-size: 16px
 
 H5
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
 font-family: Fira Sans
 font-size: 15px
 
 H6
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
 font-family: Fira Sans
 font-size: 14px
