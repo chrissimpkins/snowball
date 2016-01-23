@@ -1,7 +1,7 @@
 Snowball
 ========
 
-A clean, simple Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://lightpaper.42squares.in/) Markdown editors.
+A light, clean Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://lightpaper.42squares.in/) Markdown editors.
 
 ## Example
 
