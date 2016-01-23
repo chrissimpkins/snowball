@@ -17,6 +17,8 @@ A light, clean Markdown text editor theme for the [Mou](http://mouapp.com/) and 
 
 Install the [Fira Sans](fonts/FiraSans), [Hack](fonts/Hack), and [Roboto Mono](fonts/RobotoMono) fonts that are included in the Snowball repository `fonts` directory.
 
+### Install Theme File
+
 #### Automated Theme File Installation
 Use the install.sh script in the Mou or LightPaper directory.  This will automatically install the theme for you. Clone this repository, navigate to the directory for your Markdown editor and enter the following:
 ```
