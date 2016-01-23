@@ -5,7 +5,8 @@ editor
 foreground: 404749
 background: FFFFFF
 caret: 222222
-font-family: Helvetica
+font-family: Roboto Mono
+font-size: 14px
 
 editor-selection
 foreground: FFFFFF
